@@ -1,0 +1,157 @@
+@media only screen and (max-width: 479px) {
+    .top-info .h1 {
+        font-size: 29px; }
+    .top-info p {
+        font-size: 16px; }
+
+    #header .container {
+        width: 90%;
+        margin: 0 auto; }
+
+    .top-animation__images {
+        position: absolute; }
+    .top-animation__images .bonet {
+        top: -85px;
+        left: 140px;
+        width: 50%; }
+    .top-animation__images .bonet img {
+        width: 85%; }
+    .top-animation__images .suitcase {
+        top: 205px;
+        left: 15px;
+        z-index: 10;
+        width: 60%; }
+    .top-animation__images .suitcase img {
+        width: 85%; }
+    .top-animation__images .map {
+        top: 205px;
+        left: 155px;
+        z-index: 10;
+        width: 50%; }
+    .top-animation__images .map img {
+        width: 100%; }
+
+    .top-animation {
+        left: calc(50% - 160px); }
+
+    .phone__img {
+        width: 320px;
+        height: 320px; }
+
+    .btn-block {
+        padding: 0;
+        margin-top: 0;
+        flex-direction: column;
+        row-gap: 20px; }
+
+    .main {
+        height: calc(410px * 2 ); }
+
+    .footer {
+        height: 100%;
+        width: 100%; }
+    .footer .fond {
+        width: 100%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        top: 0;
+        left: 0; }
+    .footer .fond img {
+        width: 20%;
+        display: flex;
+        justify-content: center; }
+
+    .project .project_section .h1 {
+        font-size: 30px; }
+
+    .project-container__p {
+        font-size: 16px; }
+
+    .footer-dop .h3 {
+        font-size: 22px;
+        width: 80%; }
+
+    .footer-girl-left {
+        display: none; }
+
+    .footer-dop .footer-dop-container div {
+        width: 70% !important; }
+    .footer-dop .footer-dop-container .footer-button {
+        width: 25% !important;
+        margin-top: 100px;
+        font-size: 16px; }
+    .footer-dop .footer-dop-container .footer-girl-right {
+        margin-top: -50px; }
+
+    .btn-nav-burger {
+        width: 22px;
+        height: 14px; }
+
+    #header .container {
+        width: 96%;
+        margin: 0 auto; }
+
+    .contact_bg .contact_section .contact-container p {
+        width: 90%;
+        font-size: 18px; }
+
+    .contact_bg .bg-Shape-contact-center {
+        left: 70%; }
+    .contact_bg .bg-Shape-contact-center img {
+        width: 100%; }
+    .contact_bg .bg-contact-bottom {
+        left: -50%; }
+    .contact_bg .bg-Shape-contact img {
+        width: 75%; }
+    .contact_bg .contact_section .contact-container__images img {
+        width: 100%; }
+    .contact_bg .contact_section .contact-container .contact-container--block a {
+        font-size: 20px; }
+    .contact_bg .contact_section .h1 {
+        font-size: 30px; }
+
+    .footer .fond {
+        margin-top: 30px; }
+    .footer .footer-container {
+        padding-top: 30px; }
+
+    .nav-list-active {
+        display: block !important;
+        text-align: center;
+        transition: 1s;
+        animation: show 3s 1;
+        opacity: 1; }
+
+    .universities .h1 {
+        font-size: 30px; }
+
+    .cards {
+        width: 100%; }
+
+    .nav-towns-block {
+        width: 80%; }
+
+    .universities-search-container-mob {
+        padding: 20px; }
+
+    .nav-active {
+        opacity: 1 !important;
+        transition: .4s;
+        display: flex !important;
+        justify-content: center; }
+
+    .school {
+        width: 100%; }
+    .school .h1 {
+        font-size: 26px;
+        text-align: center; }
+    .school img {
+        width: 100%; }
+
+    .block-container {
+        width: 100%; } }
+
+/*# sourceMappingURL=media-479.css.map */
